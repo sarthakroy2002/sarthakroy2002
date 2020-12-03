@@ -4,6 +4,11 @@
 
 [![Sarthak's github stats](https://github-readme-stats.vercel.app/api?username=sarthakroy2002)](https://github.com/sarthakroy2002?tab=repositories)
 
+<a href="https://github.com/PerpetualSmile">
+ 
+  <img align="center" src="https://github-readme-stats-teal.vercel.app/api/top-langs/?username=sarthak2002&layout=compact" />
+</a>
+
 <br/>
 
 <a href="https://twitter.com/sarthak2002">
