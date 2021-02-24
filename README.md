@@ -29,5 +29,4 @@
 
 <br />
 
-[![Made with love in India](https://madewithlove.now.sh/in?heart=true&template=for-the-badge)]
-[![VisitorCount](https://profile-counter.glitch.me/sarthakroy2002/count.svg)]
+![Made with love in India](https://madewithlove.now.sh/in?heart=true&template=for-the-badge)
