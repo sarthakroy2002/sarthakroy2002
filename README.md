@@ -2,6 +2,12 @@
 
 <h2>Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Sarthak Roy!</h2>
 
+- 👀 I’m interested in Open source projects including AOSP projects
+- 🌱 I’m currently a student of BCA in Amity University Kolkata
+- 💞️ I’m currently learning C Programming and Python Programming 
+- 📫 You can reach me by my email address 'aritrapalit14@gmail.com'.
+
+
 [![Sarthak's github stats](https://github-readme-stats.vercel.app/api?username=sarthakroy2002&theme=nightowl)](https://github.com/sarthakroy2002?tab=repositories)
 
 <a href="https://github.com/sarthakroy2002">
