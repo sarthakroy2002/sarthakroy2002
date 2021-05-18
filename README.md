@@ -14,6 +14,14 @@
   <img align="center" height="180em" src="https://github-readme-stats-teal.vercel.app/api/top-langs/?username=sarthakroy2002&layout=compact&theme=nightowl" />
 </a>
 
+### ⚙️ &nbsp;Sarthak's GitHub Analytics
+<p align="center">
+<a href="https://github.com/sarthakroy2002">
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Tsarthakroy2002&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sarthakroy2002&layout=compact&langs_count=8&theme=nightowl"/>
+</a>
+</p>
+
 <br/>
 
 <a href="https://twitter.com/sarthak2002">
