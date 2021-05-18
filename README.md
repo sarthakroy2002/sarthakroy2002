@@ -11,8 +11,7 @@
 [![Sarthak's github stats](https://github-readme-stats.vercel.app/api?username=sarthakroy2002&theme=nightowl)](https://github.com/sarthakroy2002?tab=repositories)
 
 <a href="https://github.com/sarthakroy2002">
- 
-  <img align="center" src="https://github-readme-stats-teal.vercel.app/api/top-langs/?username=sarthakroy2002&layout=compact&theme=nightowl" />
+  <img align="center" height="180em" src="https://github-readme-stats-teal.vercel.app/api/top-langs/?username=sarthakroy2002&layout=compact&theme=nightowl" />
 </a>
 
 <br/>
