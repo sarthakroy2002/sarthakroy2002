@@ -5,7 +5,7 @@
 - 👀 I’m interested in Open source projects including AOSP projects
 - 🌱 I’m currently a student of BCA in Amity University Kolkata
 - 💞️ I’m currently learning C Programming and Python Programming 
-- 📫 You can reach me by my email address 'aritrapalit14@gmail.com'.
+- 📫 You can reach me by my email address 'sarthakroy2002@gmail.com'.
 
 
 ### ⚙️ &nbsp;Sarthak's GitHub Analytics
