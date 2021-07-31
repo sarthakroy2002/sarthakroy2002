@@ -2,9 +2,9 @@
 
 <h2>Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Sarthak Roy!</h2>
 
-- 👀 I’m interested in Open source projects including AOSP projects
+- 👀 I’m interested in Open source projects including AOSP projects. Also Currently maintaining Realme C3/Narzo 10A custom AOSP development including its linux kernel source
 - 🌱 I’m currently a student of BCA in Amity University Kolkata
-- 💞️ I’m currently learning C Programming and Python Programming 
+- 💞️ I’m an avid learner and currently learning C/C++, Java and Python Programming.
 - 📫 You can reach me by my email address 'sarthakroy2002@gmail.com'.
 
 
@@ -19,25 +19,18 @@
 <br/>
 
 <a href="https://twitter.com/sarthak2002">
-  <img align="left" alt="Sarthak Roy | Twitter " width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Sarthak's Twitter " width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/twitter.svg" />
 </a>
 <a href="https://t.me/sarthakroy2002">
-  <img align="left" alt="Sarthak's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+  <img align="left" alt="Sarthak's Telegram" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/telegram.svg" />
 </a>
-<a href="https://www.instagram.com/sarthakroy2002/">
-  <img align="left" alt="Sarthak's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.youtube.com/c/TechnicalFreakSarthak/">
-  <img align="left" alt="Sarthak Roy - YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
-</a>  
+<a href="https://www.linkedin.com/in/sarthak-roy-577b601b2/">
+  <img align="left" alt="Sarthak's LinkedIn" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg" />
+</a> 
   <a href="https://forum.xda-developers.com/member.php?u=8126733">
-  <img align="left" alt="My XDA" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/xdadevelopers.svg" />
+  <img align="left" alt="My XDA" width="22px" src="https://www.xda-developers.com/favicon.ico" />
 </a>
 
 <br />
-
-### Spotify Playing 🎧
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31qq3unsj5r5pvylapc42xyyhkvy&cover_image=true&theme=compact)](https://spotify-github-profile.vercel.app/api/view?uid=31qq3unsj5r5pvylapc42xyyhkvy&redirect=true)
 
 ![Made with love in India](https://madewithlove.now.sh/in?heart=true&template=for-the-badge)
