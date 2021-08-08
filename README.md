@@ -15,8 +15,10 @@
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sarthakroy2002&layout=compact&langs_count=8&theme=nightowl"/>
 </a>
 </p>
-
 <br/>
+<p align = "center">
+ <img src="https://activity-graph.herokuapp.com/graph?username=sarthakroy2002&theme=redical">
+</p>  
 
 <a href="https://twitter.com/sarthak2002">
   <img align="left" alt="Sarthak's Twitter " width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/twitter.svg" />
@@ -32,5 +34,13 @@
 </a>
 
 <br />
+
+<p align="center">
+ <img src="https://komarev.com/ghpvc/?username=sarthakroy2002&style=flat-square"/>
+ <img src="https://badges.pufler.dev/years/sarthakroy2002"/>
+ <img src="https://badges.pufler.dev/repos/sarthakroy2002"/>
+ <img src="https://badges.pufler.dev/commits/monthly/sarthakroy2002"/>
+ <img src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dsarthakroy2002&longCache=true"/>
+</p>
 
 ![Made with love in India](https://madewithlove.now.sh/in?heart=true&template=for-the-badge)
