@@ -2,10 +2,14 @@
 
 <h2>Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Sarthak Roy!</h2>
 
-- 👀 I’m interested in Open source projects including AOSP projects. Also Currently maintaining Realme C3/Narzo 10A custom AOSP development including its linux kernel source
 - 🌱 I’m currently a student of BCA in Amity University Kolkata
-- 💞️ I’m an avid learner and currently learning C/C++, Java and Python Programming.
-- 📫 You can reach me by my email address 'sarthakroy2002@gmail.com'.
+- 👀 Languages/Tools I know are C/C++, Scripting through bash, HTML, Java (basics).
+- 💞️ I’m an avid learner and currently learning ro master C/C++ and Python Programming.
+- 👀 I’m interested in Open source projects including AOSP related projects.
+- 📱 Devices I own are Realme Narzo 10A, Asus Zenfone Max Pro M1.
+- 📱 I'm Actively maintaining Realme C3/Narzo 10A for ArrowOS, CipherOS and Project Radiant.
+- ✔️ Looking forward to achieve something :)
+- 📫 You can reach me by my email address 'sarthakroy2002@gmail.com'. You can also reach me through Telegram or Twitter.
 
 
 ### ⚙️ &nbsp;Sarthak's GitHub Analytics
