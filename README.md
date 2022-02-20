@@ -7,7 +7,7 @@
 - 💞️ I’m an avid learner and currently learning ro master C/C++ and Python Programming.
 - 👀 I’m interested in Open source projects including AOSP related projects.
 - 📱 Devices I own are Realme Narzo 10A, Asus Zenfone Max Pro M1.
-- 📱 I'm Actively maintaining Realme C3/Narzo 10A for ArrowOS, CipherOS and Project Radiant.
+- 📱 I'm Actively maintaining Realme C3/Narzo 10A for ArrowOS and CipherOS Officially.
 - ✔️ Looking forward to achieve something :)
 - 📫 You can reach me by my email address 'sarthakroy2002@gmail.com'. You can also reach me through Telegram or Twitter.
 
