@@ -3,8 +3,8 @@
 <h2>Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Sarthak Roy!</h2>
 
 - 🌱 I’m currently a student of BCA in Amity University Kolkata
-- 👀 Languages/Tools I know are C/C++, Scripting through bash, HTML, Java (basics).
-- 💞️ I’m an avid learner and currently learning ro master C/C++ and Python Programming.
+- 👀 Languages/Tools I know are C/C++, Scripting through bash, Python, Java (basics).
+- 💞️ I’m an avid learner and currently learning to master C/C++ and Python Programming.
 - 👀 I’m interested in Open source projects including AOSP related projects.
 - 📱 Devices I own are Realme Narzo 10A, Asus Zenfone Max Pro M1.
 - 📱 I'm Actively maintaining Realme C3/Narzo 10A for ArrowOS and CipherOS Officially.
