@@ -3,10 +3,11 @@
 <h2>Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Sarthak Roy!</h2>
 
 - 🌱 I’m currently a student of BCA in Amity University Kolkata
-- 👀 Languages/Tools I know are C/C++, Scripting through bash, Python, Java (basics).
+- 👀 Languages/Tools I know are C/C++, Shell programming (bash), Python, Java (basics).
 - 💞️ I’m an avid learner and currently learning to master C/C++ and Python Programming.
+- 👀 I've keen interest in Cloud Computing.
 - 👀 I’m interested in Open source projects including AOSP related projects.
-- 📱 Devices I own are Realme Narzo 10A, Asus Zenfone Max Pro M1.
+- 📱 Devices I own are Realme Narzo 10A.
 - 📱 I'm Actively maintaining Realme C3/Narzo 10A for ArrowOS and CipherOS Officially.
 - ✔️ Looking forward to achieve something :)
 - 📫 You can reach me by my email address 'sarthakroy2002@gmail.com'. You can also reach me through Telegram or Twitter.
