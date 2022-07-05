@@ -1,6 +1,6 @@
 
 
-<h2>Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Sarthak Roy!</h2>
+<h2>Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px">, I'm Sarthak Roy!</h2>
 
 - 🌱 I’m currently a student of BCA in Amity University Kolkata
 - 👀 Languages/Tools I know are C/C++, Shell programming (bash), Python, Java (basics).
