@@ -3,19 +3,26 @@
 <h2>Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px">, I'm Sarthak Roy!</h2>
 
 - 🌱 I’m currently a student of BCA in Amity University Kolkata
-- 👀 Languages/Tools I know are C/C++, Shell programming (bash), Python, Java (basics).
-- 💞️ I’m an avid learner and currently learning to master C/C++ and Python Programming.
-- 👀 I've keen interest in Cloud Computing.
-- 👀 I’m interested in Open source projects including AOSP related projects.
-- 📱 Devices I own are Realme Narzo 10A.
+- 👀 Languages/Tools I know are C, C++, Shell programming (bash), Python, Java (basics), MongoDB, ExpressJS, ReactJS, NodeJS, Gerrit.
+- 💞️ I’m an avid learner and I've keen interest in Android Development and Cloud Computing.
+- 👀 I’m interested in Open source projects like AOSP.
+- 📱 Devices I own are Realme Narzo 10A (RMX2020).
 - 📱 I'm Actively maintaining Realme C3/Narzo 10A for ArrowOS and CipherOS Officially.
 - ✔️ Looking forward to achieve something :)
-- 📫 You can reach me by my email address 'sarthakroy2002@gmail.com'. You can also reach me through Telegram or Twitter.
+- 📫 You can reach me by my email address 'sarthakroy2002@gmail.com'.
+- 📫Lets Connect through LinkedIn, Twitter or Telegram.
 
 ### 💻 Current working environments
 [![Windows 11](https://img.shields.io/badge/Windows%2011-00adef?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/en-in/software-download/windows10)
 [![Ubuntu 20.04 WSL](https://img.shields.io/badge/Ubuntu%2020.04-dd4814?style=flat-square&logo=ubuntu&logoColor=ffffff)](https://ubuntu.com/wsl)
 [![Android 12](https://img.shields.io/badge/Android%2012-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](https://www.android.com/android-12/)
+
+### 💻 Current Work Machine
+#### Dell G3 3579
+- [Intel i5 8300H]{https://www.intel.in/content/www/in/en/products/sku/134876/intel-core-i58300h-processor-8m-cache-up-to-4-00-ghz/specifications.html)
+- NVIDIA GeForce 1050 ti
+- 8GB DDR4 2666Mhz RAM
+- 512GB NVMe SSD
 
 ### ⚙️ &nbsp;Sarthak's GitHub Analytics
 <p align="center">
