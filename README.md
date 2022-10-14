@@ -19,8 +19,8 @@
 
 ### 💻 Current Work Machine
 #### Dell G3 3579
-- Intel i5 8300H
-- NVIDIA GeForce 1050 ti
+- Intel Core i5 8300H
+- NVIDIA GeForce GTX1050 ti
 - 8GB DDR4 2666Mhz RAM
 - 512GB NVMe SSD
 
