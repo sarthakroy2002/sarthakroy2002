@@ -12,7 +12,6 @@
 - 📫 You can reach me by my email address 'sarthakroy2002@gmail.com'.
 - 📫Lets Connect through LinkedIn, Twitter or Telegram.
 
-<center>
 <a href="https://twitter.com/sarthak2002">
   <img align="left" alt="Sarthak's Twitter " width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/twitter.svg" />
 </a>
@@ -25,7 +24,8 @@
   <a href="https://forum.xda-developers.com/member.php?u=8126733">
   <img align="left" alt="My XDA" width="22px" src="https://www.xda-developers.com/favicon.ico" />
 </a>
-</center>
+
+<br><br>
 
 ### 💻 Current working environments
 [![Windows 11](https://img.shields.io/badge/Windows%2011-00adef?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/en-in/software-download/windows10)
