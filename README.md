@@ -36,8 +36,9 @@
 #### Dell G3 3579
 - Intel Core i5 8300H
 - NVIDIA GeForce GTX1050 ti
-- 8GB DDR4 2666Mhz RAM
+- 16GB DDR4 2666Mhz RAM
 - 512GB NVMe SSD
+- 1TB HDD
 
 ### ⚙️ &nbsp;Sarthak's GitHub Analytics
 <p align="center">
