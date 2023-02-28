@@ -22,7 +22,7 @@
   <img align="left" alt="Sarthak's LinkedIn" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg" />
 </a> 
   <a href="https://forum.xda-developers.com/member.php?u=8126733">
-  <img align="left" alt="My XDA" width="22px" src="https://www.xda-developers.com/favicon.ico" />
+  <img align="left" alt="My XDA" width="22px" src="https://www.xda-developers.com/public/build/images/favicon-48x48.8f822f21.png" />
 </a>
 
 <br><br>
@@ -48,13 +48,9 @@
 </a>
 </p>
 <br/>
-<p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=sarthakroy2002&theme=redical">
-</p>  
 
 <p align="center">
  <img src="https://komarev.com/ghpvc/?username=sarthakroy2002&style=flat-square"/>
- <img src="https://badges.pufler.dev/commits/monthly/sarthakroy2002"/>
  <img src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dsarthakroy2002&longCache=true"/>
 </p>
 
