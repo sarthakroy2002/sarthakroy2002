@@ -18,7 +18,7 @@
 <a href="https://t.me/sarthakroy2002">
   <img align="left" alt="Sarthak's Telegram" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/telegram.svg" />
 </a>
-<a href="https://www.linkedin.com/in/sarthak-roy-577b601b2/">
+<a href="https://www.linkedin.com/in/sarthakroy2002">
   <img align="left" alt="Sarthak's LinkedIn" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg" />
 </a> 
   <a href="https://forum.xda-developers.com/member.php?u=8126733">
