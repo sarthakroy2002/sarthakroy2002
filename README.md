@@ -48,7 +48,9 @@
 </a>
 </p>
 <br>
+
 [![sarthakroy2002's GitHub | Languages Over Time](https://stats.quine.sh/sarthakroy2002/languages-over-time?theme=dark)](https://quine.sh)
+
 <br>
 <p align="center">
  <img src="https://komarev.com/ghpvc/?username=sarthakroy2002&style=flat-square"/>
