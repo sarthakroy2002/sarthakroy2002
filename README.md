@@ -2,7 +2,7 @@
 
 <h2>Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px">, I'm Sarthak Roy!</h2>
 
-- 🌱 I’m currently a student of BCA in Amity University Kolkata
+- 🌱 I’m currently a student of MCA at Vellore Institute of Technology, Chennai.
 - 👀 Languages/Tools I know are C, C++, Shell programming (bash), Python, Java (basics), MongoDB, ExpressJS, ReactJS, NodeJS, Gerrit.
 - 💞️ I’m an avid learner and I've keen interest in Android Development and Cloud Computing.
 - 👀 I’m interested in Open source projects like AOSP.
