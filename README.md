@@ -6,7 +6,7 @@
 - 👀 Languages/Tools I know are C, C++, Shell programming (bash), Python, Java (basics), MongoDB, ExpressJS, ReactJS, NodeJS, Gerrit.
 - 💞️ I’m an avid learner and I've keen interest in Android Development and Cloud Computing.
 - 👀 I’m interested in Open source projects like AOSP.
-- 📱 Devices I own are Realme Narzo 10A (RMX2020).
+- 📱 Devices I own are motorola g54 5G (cancunf) and Realme Narzo 10A (RMX2020).
 - 📱 I'm Actively maintaining Realme C3/Narzo 10A for ArrowOS and CipherOS Officially.
 - ✔️ Looking forward to achieve something :)
 - 📫 You can reach me by my email address 'sarthakroy2002@gmail.com'.
