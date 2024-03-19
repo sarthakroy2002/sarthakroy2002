@@ -3,11 +3,11 @@
 <h2>Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px">, I'm Sarthak Roy!</h2>
 
 - 🌱 I’m currently a student of MCA at Vellore Institute of Technology, Chennai.
-- 👀 Languages/Tools I know are C, C++, Shell programming (bash), Python, Java (basics), MongoDB, ExpressJS, ReactJS, NodeJS, Gerrit.
+- 👀 Languages/Tools I know are C, Python, Shell programming (bash), Java, C#, MongoDB, ExpressJS, ReactJS, NodeJS, Gerrit, Jira, .NET Framwork.
 - 💞️ I’m an avid learner and I've keen interest in Android Development and Cloud Computing.
 - 👀 I’m interested in Open source projects like AOSP.
 - 📱 Devices I own are motorola g54 5G (cancunf) and Realme Narzo 10A (RMX2020).
-- 📱 I'm Actively maintaining Realme C3/Narzo 10A for ArrowOS and PixelOS Officially.
+- 📱 I'm Actively maintaining custom AOSP for motorola g54 5G (cancunf) and Realme C3/Narzo 10A.
 - ✔️ Looking forward to achieve something :)
 - 📫 You can reach me by my email address 'sarthakroy2002@gmail.com'.
 - 📫Lets Connect through LinkedIn, Twitter or Telegram.
@@ -30,7 +30,7 @@
 ### 💻 Current working environments
 [![Windows 11](https://img.shields.io/badge/Windows%2011-00adef?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/en-in/software-download/windows10)
 [![Ubuntu 22.04 WSL](https://img.shields.io/badge/Ubuntu%2022.04-dd4814?style=flat-square&logo=ubuntu&logoColor=ffffff)](https://ubuntu.com/wsl)
-[![Android 13](https://img.shields.io/badge/Android%2013-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](https://www.android.com/android-13/)
+[![Android 14](https://img.shields.io/badge/Android%2013-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](https://www.android.com/android-14/)
 
 ### 💻 Current Work Machine
 #### Dell G3 3579
