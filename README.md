@@ -21,13 +21,13 @@
 - 1TB HDD
 
 [![Windows 11](https://img.shields.io/badge/Windows%2011-00adef?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/en-in/software-download/windows10)
-[![Ubuntu 22.04 WSL](https://img.shields.io/badge/Ubuntu%2022.04-dd4814?style=flat-square&logo=ubuntu&logoColor=ffffff)](https://ubuntu.com/wsl)
+[![Ubuntu 24.04 WSL](https://img.shields.io/badge/Ubuntu%2024.04-dd4814?style=flat-square&logo=ubuntu&logoColor=ffffff)](https://ubuntu.com/wsl)
 
 #### moto g54 5G
 - Mediatek Dimensity 7020
 - 8GB RAM/128GB ROM
 
-[![Android 14](https://img.shields.io/badge/Android%2014-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](https://www.android.com/android-14/)
+[![Android 15](https://img.shields.io/badge/Android%2015-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](https://www.android.com/android-15/)
 
 ### ⚙️ &nbsp;Sarthak's GitHub Analytics
 <p align="center">
