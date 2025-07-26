@@ -2,15 +2,12 @@
 
 <h2>Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px">, I'm Sarthak Roy!</h2>
 
-- 🌱 I’m a MCA student at Vellore Institute of Technology, Chennai.
-- 👀 Languages/Tools I know are C, Python, Shell programming (bash), Java, C#, MongoDB, ExpressJS, ReactJS, NodeJS, Gerrit, Jira, .NET Framwork.
 - 💞️ I’m an avid learner interested in Android Development, Full Stack Web Development and Cloud Computing.
 - 👀 I’m interested in Open source projects like AOSP.
+- 👀 Languages/Tools I know are C, Python, Shell programming (bash), Java, C#, MongoDB, ExpressJS, ReactJS, NodeJS, Gerrit, Jira, .NET Framwork.
 - 📱 Devices I own are motorola g54 5G (cancunf) and Realme Narzo 10A (RMX2020).
 - 📱 I'm Actively maintaining custom AOSP (PixelOS) for motorola g54 5G (cancunf) and Realme C3/Narzo 10A.
 - ✔️ Looking forward to achieve something :)
-- 📫 You can reach me by my email address 'sarthakroy2002@gmail.com'.
-- 📫Lets Connect through <a href="https://www.linkedin.com/in/sarthakroy2002">LinkedIn</a>, <a href="https://twitter.com/sarthak2002">Twitter/X</a> or <a href="https://t.me/sarthakroy2002">Telegram</a>.
 
 ### 💻 Current Work Machine, Daily Driver Smartphone and working environments
 #### Dell G3 3579
